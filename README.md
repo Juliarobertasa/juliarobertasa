@@ -1,16 +1,22 @@
-## Hi there 👋
+# **Olá, eu sou a Júlia!** 👋
+Sou graduanda em `Análise e Desenvolvimento de Sistemas` e estou em busca de oportunidades para atuar na área e adquirir experiência prática. 💻✨
 
-<!--
-**Juliarobertasa/juliarobertasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Sobre Mim**
+Durante a graduação, tive a chance de trabalhar com várias tecnologias, incluindo:
 
-Here are some ideas to get you started:
+- HTML 🖥️
+- CSS 🎨
+- C# 🔧
+- ASP.NET 🌐
+- MySQL 📊
+Além das competências técnicas, destaco-me pelas minhas habilidades comportamentais em liderança e comunicação. Tenho facilidade para trabalhar em equipe e estou sempre disposta a colaborar! 🤝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **O que busco**
+Estou aberta a oportunidades em desenvolvimento Front-end, Back-end ou Full Stack. Estou ansiosa para contribuir e aprender em um ambiente dinâmico e desafiador. 🚀
+
+## **Interesses**
+Sou uma amante do mundo artístico 🎭 e adoro a leitura 📚. Acredito que essas paixões me ajudam a ter uma visão mais criativa e inovadora em tudo o que faço.
+
+## **Vamos nos conectar?**
+Estou sempre disposta a aprender novas tecnologias e estou empolgada para fazer parte de projetos que façam a diferença! Se você está procurando alguém com entusiasmo e vontade de aprender, vamos conversar! 😄
+
