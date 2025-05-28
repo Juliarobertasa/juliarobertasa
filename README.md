@@ -1,22 +1,39 @@
-# **Olá, eu sou a Júlia!** 👋
-Sou graduanda em `Análise e Desenvolvimento de Sistemas` e estou em busca de oportunidades para atuar na área e adquirir experiência prática. 💻✨
+## 🚀 Olá, eu sou a Júlia Roberta! 👋
 
-## **Sobre Mim**
-Durante a graduação, tive a chance de trabalhar com várias tecnologias, incluindo:
+Graduanda em **Análise e Desenvolvimento de Sistemas**, com experiência prática em **desenvolvimento web**, **análise de dados** e **gestão de processos**. Atualmente, atuo como estagiária na **Fundação Ezequiel Dias**, no setor de Gestão de Processos de Negócios, unindo tecnologia e melhoria contínua. ✨
 
-- HTML 🖥️
-- CSS 🎨
-- C# 🔧
-- ASP.NET 🌐
-- MySQL 📊
-Além das competências técnicas, destaco-me pelas minhas habilidades comportamentais em liderança e comunicação. Tenho facilidade para trabalhar em equipe e estou sempre disposta a colaborar! 🤝
+---
 
-## **O que busco**
-Estou aberta a oportunidades em desenvolvimento Front-end, Back-end ou Full Stack. Estou ansiosa para contribuir e aprender em um ambiente dinâmico e desafiador. 🚀
+## 📚 Sobre Mim
 
-## **Interesses**
-Sou uma amante do mundo artístico 🎭 e adoro a leitura 📚. Acredito que essas paixões me ajudam a ter uma visão mais criativa e inovadora em tudo o que faço.
+Durante a graduação, tive a chance de trabalhar com diversas tecnologias, incluindo:
 
-## **Vamos nos conectar?**
-Estou sempre disposta a aprender novas tecnologias e estou empolgada para fazer parte de projetos que façam a diferença! Se você está procurando alguém com entusiasmo e vontade de aprender, vamos conversar! 😄
+* **HTML** 🌐
+* **CSS** 🎨
+* **JavaScript** 💡
+* **C#** 💻
+* **MySQL** 🗄️
+* **Python** 🐍
+
+Possuo experiência prática em **levantamento e especificação de requisitos** (casos de uso e user stories), **modelagem de processos** (BPMN) e **UML**. Sou apaixonada por criar soluções criativas e gerar conexões reais. Participo ativamente da comunicação entre áreas de negócio e TI, contribuindo para a clareza e eficácia na implementação de soluções. 🤝
+
+Além da bagagem técnica, acredito que **habilidades humanas** fazem a diferença: liderança, comunicação eficaz e trabalho em equipe são pilares que levo comigo para construir ambientes colaborativos, criativos e produtivos. Para mim, boas soluções nascem do encontro entre técnica e sensibilidade! 💡💖
+
+---
+
+## 🎯 O que busco
+
+Estou aberta a oportunidades para **estágio em desenvolvimento web** (Front-end, Back-end ou Full Stack) ou **cargo de Analista de Sistemas Júnior**. Estou ansiosa para contribuir e aprender em um ambiente dinâmico e desafiador. 🚀
+
+---
+
+## 🎨 Interesses
+
+Sou uma amante do **mundo artístico** 🎭 e adoro a **leitura** 📚. Acredito que essas paixões me ajudam a ter uma visão mais criativa e inovadora em tudo o que faço.
+
+---
+
+## ✉️ Vamos nos conectar?
+
+Estou sempre disposta a aprender novas tecnologias e estou empolgada para fazer parte de projetos que façam a diferença! Se você está procurando alguém com entusiasmo e vontade de aprender, vamos conversar! 😄 Fique à vontade para me contatar através do meu perfil do GitHub ou LinkedIn! 😉
 
