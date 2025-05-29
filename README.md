@@ -6,7 +6,7 @@ Graduanda em **Análise e Desenvolvimento de Sistemas**, com experiência práti
 
 ## 📚 Sobre Mim
 
-Durante a graduação, tive a chance de trabalhar com diversas tecnologias, incluindo:
+Durante minha trajetória como Desenvolvedora de software, tive a chance de trabalhar com diversas tecnologias, incluindo:
 
 * **HTML** 🌐
 * **CSS** 🎨
@@ -15,7 +15,7 @@ Durante a graduação, tive a chance de trabalhar com diversas tecnologias, incl
 * **MySQL** 🗄️
 * **Python** 🐍
 
-Possuo experiência prática em **levantamento e especificação de requisitos** (casos de uso e user stories), **modelagem de processos** (BPMN) e **UML**. Sou apaixonada por criar soluções criativas e gerar conexões reais. Participo ativamente da comunicação entre áreas de negócio e TI, contribuindo para a clareza e eficácia na implementação de soluções. 🤝
+Como Analista de sistemas, tive experiência prática em **levantamento e especificação de requisitos** (casos de uso e user stories), **modelagem de processos** (BPMN) e **UML (casos de uso e user stories)**. Sou apaixonada por criar soluções criativas e gerar conexões reais. Participo ativamente da comunicação entre áreas de negócio e TI, contribuindo para a clareza e eficácia na implementação de soluções. 🤝
 
 Além da bagagem técnica, acredito que **habilidades humanas** fazem a diferença: liderança, comunicação eficaz e trabalho em equipe são pilares que levo comigo para construir ambientes colaborativos, criativos e produtivos. Para mim, boas soluções nascem do encontro entre técnica e sensibilidade! 💡💖
 
