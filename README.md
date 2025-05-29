@@ -1,4 +1,5 @@
-## 🚀 Olá, eu sou a Júlia Roberta! 👋
+# 🚀 Olá, eu sou a Júlia Roberta! 👋
+
 
 Graduanda em **Análise e Desenvolvimento de Sistemas**, com experiência prática em **desenvolvimento web**, **análise de dados** e **gestão de processos**. Atualmente, atuo como estagiária na **Fundação Ezequiel Dias**, no setor de Gestão de Processos de Negócios, unindo tecnologia e melhoria contínua. ✨
 
@@ -19,7 +20,10 @@ Além da bagagem técnica, acredito que **habilidades humanas** fazem a diferen�
 
 ## 🎯 O que busco
 
-Estou aberta a oportunidades para **estágio em desenvolvimento web** (Front-end, Back-end ou Full Stack) ou **cargo de Analista de Sistemas Júnior**. Estou ansiosa para contribuir e aprender em um ambiente dinâmico e desafiador. 🚀
+Estou em busca de oportunidades na área de **tecnologia**, com interesse em atuar como **Analista de Sistemas Júnior** ou em projetos de **desenvolvimento web (Front-end, Back-end ou Full Stack)**.  
+Sou apaixonada por aprender, resolver problemas e transformar processos em soluções eficientes. 🚀
+
+Além disso, estou aberta a **conexões e trocas com colegas da área de tecnologia** — acredito no poder do networking e da construção coletiva de conhecimento. 🤝 
 
 ## 🎨 Interesses
 
