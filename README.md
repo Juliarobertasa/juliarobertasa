@@ -2,8 +2,6 @@
 
 Graduanda em **Análise e Desenvolvimento de Sistemas**, com experiência prática em **desenvolvimento web**, **análise de dados** e **gestão de processos**. Atualmente, atuo como estagiária na **Fundação Ezequiel Dias**, no setor de Gestão de Processos de Negócios, unindo tecnologia e melhoria contínua. ✨
 
----
-
 ## 📚 Sobre Mim
 
 Durante minha trajetória como Desenvolvedora de software, tive a chance de trabalhar com diversas tecnologias, incluindo:
@@ -19,21 +17,16 @@ Como Analista de sistemas, tive experiência prática em **levantamento e especi
 
 Além da bagagem técnica, acredito que **habilidades humanas** fazem a diferença: liderança, comunicação eficaz e trabalho em equipe são pilares que levo comigo para construir ambientes colaborativos, criativos e produtivos. Para mim, boas soluções nascem do encontro entre técnica e sensibilidade! 💡💖
 
----
-
 ## 🎯 O que busco
 
 Estou aberta a oportunidades para **estágio em desenvolvimento web** (Front-end, Back-end ou Full Stack) ou **cargo de Analista de Sistemas Júnior**. Estou ansiosa para contribuir e aprender em um ambiente dinâmico e desafiador. 🚀
-
----
 
 ## 🎨 Interesses
 
 Sou uma amante do **mundo artístico** 🎭 e adoro a **leitura** 📚. Acredito que essas paixões me ajudam a ter uma visão mais criativa e inovadora em tudo o que faço.
 
----
 
 ## ✉️ Vamos nos conectar?
 
-Estou sempre disposta a aprender novas tecnologias e estou empolgada para fazer parte de projetos que façam a diferença! Se você está procurando alguém com entusiasmo e vontade de aprender, vamos conversar! 😄 Fique à vontade para me contatar através do meu perfil do GitHub ou LinkedIn! 😉
+Estou sempre disposta a aprender novas tecnologias e estou empolgada para fazer parte de projetos que façam a diferença! Se você está procurando alguém com entusiasmo e vontade de aprender, vamos conversar! 😄 Fique à vontade para me contatar através do meu perfil do GitHub, [LinkedIn](https://www.linkedin.com/in/juliarobertasouza/) ou através do meu e-mail juliaroberta2412@gmail.com! 😉
 
