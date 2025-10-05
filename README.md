@@ -1,36 +1,47 @@
-# 🚀 Olá, eu sou a Júlia Roberta! 👋
+# Olá! 👋 Eu sou a Júlia Roberta.
 
+Sou graduanda em Análise e desenvolvimento de sistemas na PUC Minas. Atualmente, atuo **estagiária em Produto** e tenho grande interesse por tudo que envolve **tecnologia, negócios, processos e análise de dados**.
 
-Graduanda em **Análise e Desenvolvimento de Sistemas**, com experiência prática em **desenvolvimento web**, **análise de dados** e **gestão de processos**. Atualmente, atuo como estagiária na **Fundação Ezequiel Dias**, no setor de Gestão de Processos de Negócios, unindo tecnologia e melhoria contínua. ✨
+---
 
-## 📚 Sobre Mim
+## 📚 Sobre mim
 
-Durante minha trajetória como Desenvolvedora de software, tive a chance de trabalhar com diversas tecnologias, incluindo:
+- Tenho familiaridade com **Notion, Jira, Figma, Power BI e Python**, além de experiência em **gestão de processos e melhoria contínua**, o que me permite integrar **visão técnica e estratégica** na resolução de desafios.
+- Acredito que **boas soluções nascem da combinação entre habilidades técnicas e humanas**. Liderança, empatia, comunicação eficaz e trabalho em equipe são pilares que levo comigo para construir ambientes colaborativos, criativos e produtivos.
+- Gosto muito de **relacionar produtos, tecnologia, dados e processos** para gerar soluções com valor real.
 
-* **HTML** 🌐
-* **CSS** 🎨
-* **JavaScript** 💡
-* **C#** 💻
-* **MySQL** 🗄️
-* **Python** 🐍
+---
 
-Como Analista de sistemas, tive experiência prática em **levantamento e especificação de requisitos**, **modelagem de processos** (BPMN) e **UML (casos de uso e user stories)**. Sou apaixonada por criar soluções criativas e gerar conexões reais. Participo ativamente da comunicação entre áreas de negócio e TI, contribuindo para a clareza e eficácia na implementação de soluções. 🤝
+## 🚀 Meu propósito
 
-Além da bagagem técnica, acredito que **habilidades humanas** fazem a diferença: liderança, comunicação eficaz e trabalho em equipe são pilares que levo comigo para construir ambientes colaborativos, criativos e produtivos. Para mim, boas soluções nascem do encontro entre técnica e sensibilidade! 💡💖
+Atuar **onde dados, processos e produto se encontram**, transformando ideias em soluções que geram **valor para pessoas e negócios**. ✨
 
-## 🎯 O que busco
+---
 
-Estou em busca de oportunidades na área de **tecnologia**, com interesse em atuar como **Analista de Sistemas Júnior** ou em projetos de **desenvolvimento web (Front-end, Back-end ou Full Stack)**.  
-Sou movida por aprendizado contínuo, pela resolução de problemas e por desafios que geram impacto real para pessoas e organizações. 🚀
+## Meus interesses e habilidades
 
-Além disso, estou aberta a **conexões e trocas com colegas da área de tecnologia** — acredito no poder do networking e da construção coletiva de conhecimento. 🤝 
+### 🎯 Áreas de atuação:
+- Produto digital (Product Management, UX, Discovery)
+- Análise de dados e visualização de informações
+- Processos e melhoria contínua
 
-## 🎨 Interesses
+### 🌐 Ferramentas e tecnologias:
+- **Notion, Jira, Figma, Power BI**
+- **Python** para análise de dados
+- Metodologias ágeis e gestão de projetos
 
-Sou uma amante do **mundo artístico** 🎭 e adoro a **leitura** 📚. Acredito que essas paixões me ajudam a ter uma visão mais criativa e inovadora em tudo o que faço.
+---
 
+## 💡 Portfólio de projetos
 
-## ✉️ Vamos nos conectar?
+Aqui você encontrará meus projetos, que podem incluir:  
+- **Projetos de Produto** – cases de discovery, roadmap, documentação e protótipos  
+- **Análises de Dados** – dashboards, relatórios e insights de datasets  
+- **Projetos de Código** – experimentos e protótipos de programação  
 
-Estou sempre disposta a aprender novas tecnologias e estou empolgada para fazer parte de projetos que façam a diferença! Se você está procurando alguém com entusiasmo e vontade de aprender, vamos conversar! 😄 Fique à vontade para me contatar através do meu perfil do GitHub, [LinkedIn](https://www.linkedin.com/in/juliarobertasouza/) ou através do meu e-mail juliaroberta2412@gmail.com! 😉
+---
 
+## ✉️ Vamos nos conectar!
+
+- LinkedIn: [linkedin.com/in/juliaroberta](https://www.linkedin.com/in/juliaroberta)
+- E-mail: juliaroberta2412@gmail.com
